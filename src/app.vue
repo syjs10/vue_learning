@@ -4,9 +4,12 @@
 
 <script>
     export default  {
-        return {
-            text: 'abc'
+        data(){
+            return {
+               text: 'dsadas'
+            }
         }
+
     }
 </script>
 
